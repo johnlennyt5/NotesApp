@@ -1,0 +1,9 @@
+A 'viewport' meta element was not specified.
+
+'charset' meta element was not specified.
+
+Documents must have <title> element to aid in navigation
+
+<html> element must have a lang attribute: The <html> element does not have a lang attribute
+
+Do not use empty rulesets
